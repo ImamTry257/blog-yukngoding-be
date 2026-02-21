@@ -18,7 +18,24 @@ Main goal:
         - password
         - is_login_verified
         - email_verified_token
-        - email_verified_token_at 
+        - email_verified_token_at
+        - email_verified_at
+        - otp_code
+        - otp_code_token
+        - otp_code_token_at
+        - otp_code_verified_at
+        - forgot_password_token
+        - forgot_password_token_at
+        - forgot_password_last_at
+        - created_at
+        - updated_at
+        - deleted_at
+
+        Rules :
+        - Only Superadmin can action CRUD user
+        - Required activation email for action create password
+        - Login using otp verification
+        - User can do forgot password
 
 
     2.2 Content
