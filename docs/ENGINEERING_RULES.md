@@ -1,7 +1,7 @@
 0. Technology Stack
 Backend:
 - Language: Go 1.24
-- Framework: Gin
+- Framework: Fiber
 - Architecture: Clean Architecture
 
 Database:

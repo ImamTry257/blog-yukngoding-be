@@ -1,7 +1,7 @@
 1. Backend Stack
 
 - Go 1.24
-- Gin Framework
+- Fiber Framework
 - GORM ORM
 - PostgreSQL 18
 - Redis (optional)
